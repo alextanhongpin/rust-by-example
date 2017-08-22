@@ -1,0 +1,6 @@
+[package]
+name = "formatting"
+version = "0.1.0"
+authors = ["alextanhongpin <alextan220990@gmail.com>"]
+
+[dependencies]
